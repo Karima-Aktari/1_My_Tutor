@@ -33,7 +33,7 @@ a {
 .hero p {
   font-family: "Roboto";
 }
-.hero h1 {
+.hero h1 h2 {
   font-family: "Roboto", sans-serif;
 }
 /* .hero-1 {
@@ -43,4 +43,8 @@ a {
 } */
 .hero-1 {
   background-repeat: no-repeat;
+}
+
+.feature {
+  box-shadow: 1px 5px 50px 0px rgba(84, 99, 122, 0.1);
 }
